@@ -1,4 +1,7 @@
-﻿namespace CarNS
+﻿using CarNS;
+using System;
+
+namespace CarNS
 {
     public class Car
     {
